@@ -1,0 +1,7 @@
+.item-container:hover {
+  .image-group {
+    img {
+      opacity: 0.4;
+    }
+  }
+}
